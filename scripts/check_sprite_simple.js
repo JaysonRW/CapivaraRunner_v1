@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const spritePath = path.resolve(__dirname, '../public/assets/sprites/player_run_skin1.png');
+const spritePath = path.resolve(__dirname, '../public/assets/sprites/playerrunskin1.png');
 
 if (fs.existsSync(spritePath)) {
     // Basic PNG header check for dimensions

@@ -131,14 +131,14 @@ export const Config = {
     ASSETS: {
         SPRITES: {
             // Player Default (Skin 1)
-            PLAYER_RUN: 'assets/sprites/player_run_skin1.png',
-            PLAYER_JUMP: 'assets/sprites/player_jump_skin1.png',
-            PLAYER_SLIDE: 'assets/sprites/player_slide_skin1.png',
+            PLAYER_RUN: 'assets/sprites/playerrunskin1.png',
+            PLAYER_JUMP: 'assets/sprites/playerjumpskin1.png',
+            PLAYER_SLIDE: 'assets/sprites/playerslideskin1.png',
             // Skins (Opcionais, fallback usa cor)
-            PLAYER_RUN_CICLISTA: 'assets/sprites/ciclista_run_skin1.png',
-            PLAYER_JUMP_CICLISTA: 'assets/sprites/ciclista_saltando.png',
-            PLAYER_SLIDE_CICLISTA: 'assets/sprites/ciclista_slide.png',
-            PLAYER_RUN_TURISTA: 'assets/sprites/player_run_turista.png',
+            PLAYER_RUN_CICLISTA: 'assets/sprites/ciclistarunskin1.png',
+            PLAYER_JUMP_CICLISTA: 'assets/sprites/ciclistasaltando.png',
+            PLAYER_SLIDE_CICLISTA: 'assets/sprites/ciclistaslide.png',
+            PLAYER_RUN_TURISTA: 'assets/sprites/playerrunturista.png',
             // Obstáculos
             OBSTACLE_CAN: 'assets/sprites/6464latalixoskin1.png',
             OBSTACLE_ROCK: 'assets/sprites/120120obstacolopedra.png',
@@ -146,17 +146,17 @@ export const Config = {
             OBSTACLE_BAG: 'assets/sprites/120120obstacoloflutuante.png',
             ECO_FRAGMENT: 'assets/sprites/ecoenergyfragmentleaf.png',
             // Backgrounds Botanico
-            BG_BOTANICO_1: 'assets/sprites/ceuBackground.png',
-            BG_BOTANICO_2: 'assets/sprites/estufaJardimBackground.png',
-            BG_BOTANICO_3: 'assets/sprites/chaoJardimBackground.png',
+            BG_BOTANICO_1: 'assets/sprites/ceubackground.png',
+            BG_BOTANICO_2: 'assets/sprites/estufajardimbackground.png',
+            BG_BOTANICO_3: 'assets/sprites/chaojardimbackground.png',
             // Backgrounds Tangua
-            BG_TANGUA_1: 'assets/sprites/bg_tangua_layer1.png',
-            BG_TANGUA_2: 'assets/sprites/bg_tangua_layer2.png',
-            BG_TANGUA_3: 'assets/sprites/bg_tangua_layer3.png',
+            BG_TANGUA_1: 'assets/sprites/bgtangualayer1.png',
+            BG_TANGUA_2: 'assets/sprites/bgtangualayer2.png',
+            BG_TANGUA_3: 'assets/sprites/bgtangualayer3.png',
             // Backgrounds Barigui
-            BG_BARIGUI_1: 'assets/sprites/bg_barigui_layer1.png',
-            BG_BARIGUI_2: 'assets/sprites/bg_barigui_layer2.png',
-            BG_BARIGUI_3: 'assets/sprites/bg_barigui_layer3.png'
+            BG_BARIGUI_1: 'assets/sprites/bgbariguilayer1.png',
+            BG_BARIGUI_2: 'assets/sprites/bgbariguilayer2.png',
+            BG_BARIGUI_3: 'assets/sprites/bgbariguilayer3.png'
         },
         AUDIO: {
             JUMP: 'assets/audio/jump.wav',
