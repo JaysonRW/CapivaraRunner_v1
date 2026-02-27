@@ -140,11 +140,11 @@ export const Config = {
             PLAYER_SLIDE_CICLISTA: 'assets/sprites/ciclista_slide.png',
             PLAYER_RUN_TURISTA: 'assets/sprites/player_run_turista.png',
             // Obstáculos
-            OBSTACLE_CAN: 'assets/sprites/64x64_latalixo_skin1.png',
-            OBSTACLE_ROCK: 'assets/sprites/120x120_obstacolo_pedra.png',
-            OBSTACLE_PUDDLE: 'assets/sprites/poçadaguachao.png',
-            OBSTACLE_BAG: 'assets/sprites/120x120_obstacolo_flutuante.png',
-            ECO_FRAGMENT: 'assets/sprites/eco_energy_fragment_leaf.png',
+            OBSTACLE_CAN: 'assets/sprites/6464latalixoskin1.png',
+            OBSTACLE_ROCK: 'assets/sprites/120120obstacolopedra.png',
+            OBSTACLE_PUDDLE: 'assets/sprites/pocadaguachao.png',
+            OBSTACLE_BAG: 'assets/sprites/120120obstacoloflutuante.png',
+            ECO_FRAGMENT: 'assets/sprites/ecoenergyfragmentleaf.png',
             // Backgrounds Botanico
             BG_BOTANICO_1: 'assets/sprites/ceuBackground.png',
             BG_BOTANICO_2: 'assets/sprites/estufaJardimBackground.png',
